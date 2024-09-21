@@ -20,27 +20,25 @@ The hotel chain operates throughout Ontario and requires a system to manage empl
 ## Class Diagram
 The class diagram represents the hotel’s organizational structure and the relationships between employees and hotels.
 
-![Class Diagram](![HotelManagementSystem](https://github.com/user-attachments/assets/695c7503-928f-4f7c-b2dc-dc2938a72b32)
-)
+![Class Diagram](https://github.com/user-attachments/assets/695c7503-928f-4f7c-b2dc-dc2938a72b32)
 
 ## Sequence Diagrams
 These diagrams illustrate the system interactions for key operations:
 
 ### Scenario 1: Generate Employee List
-![Generate Employee List](![Create Employee List](https://github.com/user-attachments/assets/7b826c3d-70fd-4a56-b975-f39b7ff83f92))
+![Generate Employee List](https://github.com/user-attachments/assets/7b826c3d-70fd-4a56-b975-f39b7ff83f92)
 
 ### Scenario 2: Hire Manager
-![Hire Manager](![Hire Manager](https://github.com/user-attachments/assets/2a26482a-0d7d-4261-b7f1-97ba9e318e32))
+![Hire Manager](https://github.com/user-attachments/assets/2a26482a-0d7d-4261-b7f1-97ba9e318e32)
 
 ### Scenario 3: Create Service Ticket
-![Create Service Ticket](![Generate Service ticket](https://github.com/user-attachments/assets/cd1bb31d-cc30-4e2e-9c1c-029d2c6801c0))
+![Create Service Ticket](https://github.com/user-attachments/assets/cd1bb31d-cc30-4e2e-9c1c-029d2c6801c0)
 
 ### Scenario 4: Set Up New Hotel
-![Set Up New Hotel](![setup Hotel](https://github.com/user-attachments/assets/36d2acf5-8d51-42c5-9f48-7b0d420ac52c))
+![Set Up New Hotel](https://github.com/user-attachments/assets/36d2acf5-8d51-42c5-9f48-7b0d420ac52c)
 
 ### Scenario 5: Payment System
-![Payment System](![Payment](https://github.com/user-attachments/assets/26d21653-93c1-4d13-a829-bfdf484ee440))
-
+![Payment System](https://github.com/user-attachments/assets/26d21653-93c1-4d13-a829-bfdf484ee440)
 
 ## How the Project Was Done
 1. **Class Diagram**: Developed based on the case study requirements using **composition** and **inheritance**. Each entity like Hotel, Manager, CleaningStaff, and FrontDeskStaff was designed with clear relationships.
