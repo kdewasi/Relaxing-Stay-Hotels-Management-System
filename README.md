@@ -8,7 +8,6 @@ This project models the Relaxing Stay Hotels management system using UML class a
 
 ## Technologies Used
 - **Visual Paradigm**: For creating UML class and sequence diagrams.
-- **Java** (Optional if you implemented any code).
 
 ## Case Study: Relaxing Stay Hotels
 The hotel chain operates throughout Ontario and requires a system to manage employees and room bookings. The system is designed with the following scenarios:
